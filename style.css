@@ -1,0 +1,176 @@
+body {
+    background-color: #EDF0F7;
+}
+.box1 {
+    width: 770px;
+    height: 442px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-left: 68px;
+    margin-top: 44px;
+}
+.img {
+    width: 200px;
+    height: 370px;
+    padding-left: 89.5px;
+    padding-top: 35.51px;
+}
+.box2 {
+    width: 772px;
+    height: 370.98px;
+}
+.box4 {
+    width: 350px;
+    height: 120px;
+    margin-top: -380px;
+   margin-left: 400px;
+}
+.satauri1 {
+    width: 146px;
+    height: 56px;
+    font-weight: 500px;
+    font-size: 48px;
+}
+.pr1 {
+    width: 345px;
+    height: 22px;
+    font-weight: 400px;
+    font-size: 18px;
+    color: #858997;
+    margin-top: -25px;
+
+}
+.pr2 {
+    width: 310px;
+    height: 22px;
+    font-weight: 400px;
+    font-size: 24px;
+    margin-top: -10px;
+    color: #858997;
+}
+.box5 {
+    width: 284px;
+    height: 72.5px;
+    margin-left: 400px;
+}
+.pr3 {
+    width: 97px;
+    height: 24px;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.box6, .img3 {
+    width: 36px;
+    height: 36px;
+    background-image: url("1.png");
+    padding-top: -25px;
+}
+.img2 {
+    padding-left: 13px;
+    padding-top: 14px;
+}
+.sp1 {
+    width: 35px;
+    height: 21px;
+    font-weight: 400px;
+    font-size: 14px;
+    margin-left: 43px;
+    margin-top: -27px;
+}
+.surati2 {
+    width: 36px;
+    height: 36px;
+    margin-top: -42px;
+    margin-left: 21px;
+}
+.sp2 {
+    width: 35px;
+    height: 21px;
+    font-weight: 400px;
+    font-size: 14px;
+    margin-left: 145px;
+    margin-top: -68px;
+}
+.surati3 {
+    width: 36px;
+    height: 36px;
+    margin-top: 55px;
+}
+.box7 {
+    width: 36px;
+    height: 36px;
+    margin-left: 80px;
+    margin-top: -2px;
+}
+.box8 {
+    width: 36px;
+    height: 36px;
+    margin-left: 190px;
+    margin-top: -101px;
+}
+.sp3 {
+    width: 35px;
+    height: 21px;
+    font-weight: 400px;
+    font-size: 14px;
+    margin-left: 235px;
+    margin-top: 32px;
+}
+.box9 {
+    width: 99px;
+    height: 66px;
+    background: linear-gradient(180deg, #E33C7A 0%, #C036D0 100%);
+    margin-left: 400px;
+    margin-top: -20px;
+    border-radius: 5px;
+}
+.sp4 {
+    width: 57px;
+    height: 32px;
+    font-weight: 700px;
+    font-size: 14px;
+    color: #fff;
+    margin-left: 21px;
+    padding-top: 17px;
+}
+.satauri2 {
+    margin-left: 400px;
+    width: 88px;
+    height: 24px;
+    font-weight: 400px;
+    font-size: 16px;
+}
+.box10 {
+    width: 99px;
+    height: 66px;
+    border-radius: 5px;
+    border: 2px solid #C3C6D1 ;
+    margin-left: 514px;
+    margin-top: -66px;
+}
+.sp5 {
+    width: 79px;
+    height: 32px;
+    font-weight: 400px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+.box11 {
+    width: 99px;
+    height: 66px;
+    border-radius: 5px;
+    border: 2px solid #C3C6D1 ;
+    margin-left: 635px;
+    margin-top: -70px;   
+}
+.sp6 {
+    width: 79px;
+    height: 32px;
+    font-weight: 400px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 17px;
+    margin-left: 10px;
+}
